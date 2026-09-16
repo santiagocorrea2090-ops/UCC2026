@@ -1,1 +1,9 @@
+public class vehiculo [
+//atributos de la clase vehiculo
+private int modelo;
+private String marca;
+private String color;
+private double preso;
+private String linea;
 
+}
